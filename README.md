@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevloperRupesh
-- 🌱 I’m currently learning Webdevlopment
+- 🌱 learner of Webdevlopment
 
 
 <!---
